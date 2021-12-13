@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Avoiding data/useless folders
+shell-lesson-data/data
+shell-lesson-data/molecules
+shell-lesson-data/writing/tools
+*.txt
+solar.pdf
+*.dat
+*.md
+*.cfg
